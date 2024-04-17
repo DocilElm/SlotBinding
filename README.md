@@ -1,2 +1,2 @@
 # SlotBinding
-ChatTriggers Module
+ChatTriggers Module [https://www.chattriggers.com/modules/v/SlotBinding]
